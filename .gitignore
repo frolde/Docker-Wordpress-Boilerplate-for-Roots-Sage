@@ -1,0 +1,10 @@
+// Local development
+.DS_STORE
+.idea/
+
+// Ressourced managed by Wordpress
+/src/plugins/*
+/src/uploads/*
+/src/themes/*
+
+// Checked-in themes and plugins
