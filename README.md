@@ -1,5 +1,5 @@
 # Wordpress-Boilerplate for Roots/Sage
-My default (https://www.docker.com/ "Docker")-(https://wordpress.org/ "Wordpress")-Boilerplate for (https://github.com/roots/sage "Roots/Sage")-based Theme- (or Plugin-) development.
+My default [Docker](https://www.docker.com/)-[Wordpress](https://wordpress.org/)-Boilerplate for [Roots/Sage](https://github.com/roots/sage)-based Theme- (or Plugin-) development.
 
 ## Installation
 #### Docker setup
@@ -18,7 +18,7 @@ Install Roots/Sage by running ```make setup-roots-sage projectname="NEW_NAME"```
 ``make reset`` resets the containers completely (including db)<br>
 ``make shell`` runs the shell in wordpress-container
 
-#### Roots/Sage-
+#### Roots/Sage-Make-Commands
 ``make browsersync`` starts browsersync<br>
 ``make theme-install`` updates node-modules<br>
 ``make theme-lint`` lints the assets<br>
